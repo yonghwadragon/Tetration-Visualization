@@ -38,9 +38,9 @@
 
 **기본 개념:**
 1. **연산 정의:**
-   \[
-   \text{tet}(a, n) = a \uparrow\uparrow n = a^{a^{a^{...}}} \text{ (n번 반복)}
-   \]
+   $$
+   \text{tet}(a, n) = a \uparrow\uparrow n = a^{a^{a^{...}}} \quad \text{(n번 반복)}
+   $$
 2. **복소수 평면에서의 적용:**
    - 특정 복소수 \(c\)에 대해 \( z_0 = c \)를 설정한 후,
    - \( z_{n+1} = c^{z_n} \) 를 반복하여 수렴 여부를 확인
