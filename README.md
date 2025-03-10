@@ -1,3 +1,7 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
 # Tetration-Visualization
 복소수를 사용한 테트레이션 연산과 발산 매핑의 시각화 탐색. 테트레이션 성장 및 안정성 영역의 그래픽적 표현 포함.
 
