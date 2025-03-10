@@ -63,7 +63,7 @@
 ## 📊 시뮬레이션 결과
 아래 이미지는 특정 복소수 평면에서 테트레이션 연산을 적용한 후 생성된 발산 지도입니다.
 
-![Divergence Map](Divergence Map.png)
+![Divergence Map](Divergence_Map.png)
 
 - 검은색(Black): 테트레이션이 수렴하는 영역
 - 흰색(White): 빠르게 발산하는 영역
